@@ -1,0 +1,14 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+db_host="localhost"
+db_name="osm_www"
+db_user="osm_www"
+db_passwd="XXXXXXXX"
+
+personal_map_id=1166554863
+
+prefix="protect_zones_points="
+
+debug=True
+#debug=False
